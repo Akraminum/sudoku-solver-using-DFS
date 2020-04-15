@@ -1,0 +1,30 @@
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\bin\Debug\Sec5.exe.config
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\bin\Debug\Sec5.exe
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\bin\Debug\Sec5.pdb
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\obj\Debug\Sec5.csprojResolveAssemblyReference.cache
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\obj\Debug\Sec5.Form1.resources
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\obj\Debug\Sec5.Properties.Resources.resources
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\obj\Debug\Sec5.csproj.GenerateResource.Cache
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\obj\Debug\Sec5.exe
+c:\users\amrel\onedrive\documents\visual studio 2015\Projects\Sec5\Sec5\obj\Debug\Sec5.pdb
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\bin\Debug\Sec5.exe.config
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\bin\Debug\Sec5.exe
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\bin\Debug\Sec5.pdb
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.csprojAssemblyReference.cache
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.Form1.resources
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.Properties.Resources.resources
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.csproj.GenerateResource.cache
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.csproj.CoreCompileInputs.cache
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.exe
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.pdb
+D:\courses\3rd_term2\AI\SEC\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.Sudoku.resources
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\bin\Debug\Sec5.exe.config
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\bin\Debug\Sec5.exe
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\bin\Debug\Sec5.pdb
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.csprojAssemblyReference.cache
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.Properties.Resources.resources
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.Sudoku.resources
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.csproj.GenerateResource.cache
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.csproj.CoreCompileInputs.cache
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.exe
+D:\courses\3rd_term2\AI[3,5,6,7]\SEC[4,5,6,7]\Sec3-Puzzle\Sec5\Sec5\obj\Debug\Sec5.pdb

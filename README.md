@@ -5,5 +5,7 @@
 ## Team Members:
 
 Akram Amin   aminakram379@gmail.com <br />
+<!--
 Eman Negm   eimman.negm@gmail.com <br />
 Esraa abd-Alaziz   elashryesraa2@gmail.com <br />
+-->
